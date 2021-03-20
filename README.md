@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dev.finances" title="dev.finances" src="./assets/logo.svg"/>
+    ##<h1>Perifa_Acessa<h1/>
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="./.github/preview.PNG" width="100%">
+  <h1>Perifa_Acessa<h1/>
 </p>
 
 ##  Tecnologias usadas
