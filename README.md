@@ -4,8 +4,9 @@
 </h1>
 
 
-![Perifa_Acessa] (img/PerifaAcessa1.jpg)
-
+<p align="center">
+    <img windth="470" src="https://cdn.brasildefato.com.br/media/ef709496c59bfd9ff13e3241e86224db.jpg">
+</p>
 
 
 <p align="center">
