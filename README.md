@@ -28,10 +28,10 @@
 - [Assistente de Libras](#)
 
 
-## 💻 Acesse o site 
+## 💻 Acesse o vídeo 
 
-Access the site through this link:
-**[Click Here](https://github.erosmlima.com/)**
+Acesse o vídeo demonstrativo de 1m26s pelo link:
+**[Click Here](https://www.youtube.com/watch?v=YEhyIMvXTJ8)**
 
 
 ## 🚀 Projeto
