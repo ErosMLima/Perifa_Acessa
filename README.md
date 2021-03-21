@@ -75,3 +75,10 @@ Wendy
 
 **[Click Here](https://www.canva.com/design/DAEZJt4zW7E/DLZ68zwGLkKmigaAQ4ukFQ/view#1)**
 
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/VitoriaCarvalho/CanvasMarking/blob/master/LICENSE) para mais detalhes.
+
+---
