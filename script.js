@@ -8,8 +8,8 @@ function start() {
       const onlyDigitsInString = String(value).replace(/\D/g, "");
       const formatedValue = Number(onlyDigitsInString) / 100;
       const currency = formatedValue.toLocaleString("pt-br", {
-        style: "currency",
-        currency: "BRL",
+        style: "number",
+        number: "",
       });
 
       return signal + currency;
