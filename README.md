@@ -4,7 +4,7 @@
 </h1>
 
 
-![Perifa_Acessa] (https://cdn.brasildefato.com.br/media/ef709496c59bfd9ff13e3241e86224db.jpg)
+![Perifa_Acessa] (imgs/perifa1.png)
 
 
 
