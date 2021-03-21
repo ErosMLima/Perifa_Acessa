@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <img windth="470" src="https://user-images.githubusercontent.com/60955355/111892772-19e2be00-89dd-11eb-9d5c-3283b6ac74b4.jpg)">
+    <img windth="470" src="https://cdn.brasildefato.com.br/media/ef709496c59bfd9ff13e3241e86224db.jpg)">
 </p>
 
 
