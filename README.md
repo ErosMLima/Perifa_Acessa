@@ -47,16 +47,8 @@ Fundo de tela animado (SVG/GSAP)
 
 Entradas e Saídas de Cursos e Vagas (Dinâmicas) com notificações por voz (Alexa/Watson)
 
-* This project is for the **[MaratON - Hackathon - Accenture](https://accenture.co.uk/)**, realized by **[@Accenture](https://github.com/Accenture)**.
+* Este projeto foi feito para o evento **[MaratON - Hackathon - Accenture](https://accenture.co.uk/)**, realizado pela **[@Accenture](https://github.com/Accenture)**.
 
-
-## 📚 Layout
-
-Você pode vizualizar nosso material e o layoutdo projeto por estes links:
-
-- [Layout](https://www.figma-Copy) 
-
-LembRemembering you need have a account of on [Figma](http://figma.com/) for have access.
 
 
 ## ⚜️ Equipe
