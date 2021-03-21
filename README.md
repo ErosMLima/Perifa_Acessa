@@ -73,4 +73,6 @@ Wendy
 
 ## Canvas
 
-**[Apresentação] (https://www.canva.com/design/DAEZJt4zW7E/view?utm_content=DAEZJt4zW7E&utm_campaign=designshare&utm_medium=link&utm_source=viewer)**       
+**[Click Here](https://www.youtube.com/watch?v=YEhyIMvXTJ8)**
+
+**[Apresentação] (https://www.canva.com/design/DAEZJt4zW7E/DLZ68zwGLkKmigaAQ4ukFQ/view#15)**       
