@@ -38,7 +38,7 @@
 ">
       <h1>Perifa Acessa</h1>
 
-      <h2>Empregos e Cursos Inclusivos para Jovens da Perferia</h2>
+      <h2>Empregos e Cursos Inclusivos para Jovens da Periferia</h2>
       <div class="toggle">
         <p></p>
         <input id="switch" type="checkbox" name="theme">
@@ -54,7 +54,6 @@
           <h3>
             <span> Cursos </span>
 
-            <img src="./assets/income.svg" alt="Imagem de entradas" />
           </h3>
 
           <p id="incomeDisplay">0</p>
@@ -64,7 +63,6 @@
           <h3>
             <span> Recompensa </span>
 
-            <img src="./assets/expense.svg" alt="Imagem de saídas" />
           </h3>
 
           <p id="expenseDisplay">0</p>
@@ -74,7 +72,6 @@
           <h3>
             <span> Completados </span>
 
-            <img src="./assets/total.svg" alt="Imagem de total" />
           </h3>
           <p id="totalDisplay">0</p>
         </div>
@@ -88,9 +85,10 @@
         <table id="data-table">
           <thead>
             <tr>
+              <th>Número</th>
               <th>Curso</th>
-              <th>Valor</th>
               <th>Data de Início</th>
+              <th>Data de Conclusão</th>
               <th></th>
             </tr>
           </thead>
@@ -150,7 +148,7 @@
                 step="0.01"
                 id="amount"
                 name="amount"
-                placeholder="0,00 (Use o Sinal de Menos - para recompensas) "
+                placeholder="0 (Use o Sinal de Menos - para recompensas) "
               />
 
               <small class="help"
