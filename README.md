@@ -71,8 +71,7 @@ Wendy
 <p align="center">Developed by ErosMLima² - e todo Grupo Ubuntu</p>
 
 
-## Canvas
+## Canvas - Apresentação
 
-**[Click Here](https://www.youtube.com/watch?v=YEhyIMvXTJ8)**
+**[Click Here](https://www.canva.com/design/DAEZJt4zW7E/DLZ68zwGLkKmigaAQ4ukFQ/view#1)**
 
-**[Apresentação] (https://www.canva.com/design/DAEZJt4zW7E/DLZ68zwGLkKmigaAQ4ukFQ/view#15)**       
