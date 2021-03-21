@@ -4,7 +4,7 @@
 </h1>
 
 
-![Perifa_Acessa] (imgs/perifa1.png)
+![Perifa_Acessa] (img/perifa1.png)
 
 
 
