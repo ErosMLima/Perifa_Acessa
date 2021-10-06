@@ -10,7 +10,7 @@
   --gray: #f0f2f5;
   --table: #969cb3;
   --header: #1d4385;
-  --squares: #f0f533;
+  --squares: #363f5f;
 }
 
 .dark-mode:root {
@@ -23,7 +23,7 @@
   --table: #969cb3;
   --header: #0d2603;
   --modal: #e5e5e5;
-  --squares: #6b696933;
+  --squares: #363f5f;
 }
 
 * {
